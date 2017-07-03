@@ -1,0 +1,299 @@
+chair_0890_1
+chair with four legs and short back
+
+chair_0890_1
+chair with four legs
+
+chair_0891_1
+high chair
+
+chair_0891_1
+chair with square frame on lower legs
+
+chair_0892_1
+easy chair with tall back
+
+chair_0892_1
+chair with short arms and large back
+
+chair_0893_1
+weird chair with asymmetric back and square base
+
+chair_0893_1
+chair with square base and tall right side
+
+chair_0894_1
+chair with long legs and square seat
+
+chair_0894_1
+chair with four long legs and short back
+
+chair_0895_1
+chair with round back and round base
+
+chair_0895_1
+short chair with round base and encompassing back
+
+chair_0897_1
+chair with square support and no legs
+
+chair_0897_1
+chair with flat base and no legs
+
+chair_0898_1
+chair with v-shaped support
+
+chair_0898_1
+chair with short back and tall arms
+
+chair_0899_1
+chair with wide flat base and tapered back
+
+chair_0899_1
+chair with wide spread legs and tapered back
+
+chair_0900_1
+chair with curved seat and raised arms
+
+chair_0900_1
+chair with four legs set widely apart
+
+chair_0901_1
+chair with an armrest and back
+
+chair_0901_1
+chair with two armrests
+
+chair_0902_1
+chair with short elevated back
+
+chair_0902_1
+chair with thin frame support
+
+chair_0903_1
+chair with wide seat and short legs
+
+chair_0903_1
+chair with big opening and short back
+
+chair_0904_1
+chair with long legs and short seats
+
+chair_0904_1
+chair with spread legs and armrests
+
+chair_0905_1
+chair with thin back and raised seat
+
+chair_0905_1
+chair with tall seat
+
+chair_0906_1
+curved chair with short base and very wide back
+
+chair_0906_1
+large wide chair with low seat
+
+chair_0907_1
+chair with small seat and tall base
+
+chair_0907_1
+chair with ring controls
+
+chair_0908_1
+chair with short square back with grid
+
+chair_0908_1
+chair with four legs and square seat
+
+chair_0910_1
+chair with short arms and curved back
+
+chair_0910_1
+easy chair with four legs and short arms
+
+chair_0911_1
+chair with small seat and back legs at an angle
+
+chair_0911_1
+chair with angled back legs and hole between back and seat
+
+chair_0912_1
+chair with four legs and square frame below seat
+
+chair_0912_1
+chair with square bars between legs
+
+chair_0913_1
+chair with large seat and short back
+
+chair_0913_1
+short chair with arms connected to seat
+
+chair_0914_1
+director's chair with arms
+
+chair_0914_1
+chair with v-shaped frame and small back
+
+chair_0915_1
+long flat chair with two legs and long side
+
+chair_0915_1
+chair similar to a couch
+
+chair_0916_1
+chair with long curved back and headrest and two curved legs
+
+chair_0916_1
+porch chair with two curved legs
+
+chair_0917_1
+chair with lines in back and bar between pairs of legs
+
+chair_0917_1
+chair with slits in back and small seat
+
+chair_0918_1
+chair with curved back legs solid back and seat
+
+chair_0918_1
+chair with thick seat and slightly bent base
+
+chair_0919_1
+chair with wraparound back and four short legs
+
+chair_0919_1
+chair with mid-century style legs
+
+chair_0921_1
+rocking chair
+
+chair_0921_1
+college student lounge chair
+
+chair_0922_1
+old lady rocking chair
+
+chair_0922_1
+rocking chair with tall back and short arms
+
+chair_0923_1
+toddler chair
+
+chair_0923_1
+short solid chair with four legs
+
+chair_0924_1
+ice cream cone chair with cross base
+
+chair_0924_1
+1960s chair
+
+chair_0925_1
+chair with small square base and tall back
+
+chair_0925_1
+chair with four legs and tall back
+
+chair_0926_1
+chair with tall spread legs and short curved back
+
+chair_0926_1
+tall chair with four thin legs and arms pointing forwards
+
+chair_0927_1
+chair with flat square base and short slightly curved back
+
+chair_0927_1
+chair with short raised back and four legs
+
+chair_0928_1
+chair with large spaces in back and round base
+
+chair_0928_1
+chair with slits in back and round base with four legs
+
+chair_0929_1
+chair with short curved back and large square base with short arms
+
+chair_0929_1
+chair with four legs and short wraparound back with two arms
+
+chair_0930_1
+office chair with six wheels and two arms
+
+chair_0930_1
+office chair curved seat and back with six wheels
+
+chair_0931_1
+chair with four short legs large flat seat and elevated back
+
+chair_0931_1
+chair with large wide base and four short legs
+
+chair_0932_1
+office chair with headrest and two arms and six wheels
+
+chair_0932_1
+office chair with six wheels and headrest
+
+chair_0933_1
+chair with four thin legs and curved arms
+
+chair_0933_1
+chair with short back connected to arms
+
+chair_0934_1
+large wide bench with curved legs
+
+chair_0934_1
+large bench with no arms and slightly curved back
+
+chair_0935_1
+bench with long flat seat and back
+
+chair_0935_1
+bench with no arms and curved legs
+
+chair_0936_1
+chair with tall curved back and outward pointing arms
+
+chair_0936_1
+chair with tall pointed back and cross base
+
+chair_0937_1
+chair with spidery base and short triangular back
+
+chair_0937_1
+chair with short back and small seat and two arms
+
+chair_0938_1
+office chair with rectangular back and six wheels
+
+chair_0938_1
+office chair with thin L-shaped arms and short flat back
+
+chair_0939_1
+chair with tall thin back and no arms and four legs
+
+chair_0939_1
+chair with square seat and tall thin back
+
+chair_0940_1
+folding chair with square seat
+
+chair_0940_1
+folding chair with round back and four legs
+
+chair_0941_1
+chair with small back with large spaces in between
+
+chair_0941_1
+chair with thin seat and large spaces in back
+
+chair_0942_1
+deck chair with two arms
+
+chair_0942_1
+pool chair with long seat
